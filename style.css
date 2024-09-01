@@ -1,0 +1,22 @@
+#submit{
+  
+    background-color: #d7e415; /* Green */
+    border: 2px solid;
+    color: rgb(11, 103, 225);
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+h2{
+    color: red
+   
+}
+ .quiz-container{
+   padding: 20px;
+   border: 1px solid;
+   border-radius: 10px;
+   background-color: rgb(194, 240, 203);
+
+ }
